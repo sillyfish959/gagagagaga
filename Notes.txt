@@ -1,3 +1,4 @@
 curl https://www.google.com
 tracert www.google.com
 https://github.com/sillyfish959/gagagagaga
+msiexec /a python-3.4.3.msi /gb TARGETDIR=C:\python34
